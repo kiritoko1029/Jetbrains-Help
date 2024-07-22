@@ -1,5 +1,12 @@
 [
   {
+    "id": 24559,
+    "productCode": "PEXTPACK",
+    "name": "Extra Tools Pack",
+    "pricingModel": "PAID",
+    "icon": "https://plugins.jetbrains.com/files/24559/106837/icon/pluginIcon.svg"
+  },
+  {
     "id": 9269,
     "productCode": "PAEMIDE",
     "name": "AEM IDE",
